@@ -1,16 +1,14 @@
-# responsive_layout
+# Responsive Flutter Layout
 
-A new Flutter project.
+A basic responsive layout for mobile, tablet and desktop, using flutter.
 
-## Getting Started
+Use as a base to code your project.
 
-This project is a starting point for a Flutter application.
+Credits for the master class form Mitch Koko.
 
-A few resources to get you started if this is your first Flutter project:
+Good luck!
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Tecnologies
+  - Flutter
+  - Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
